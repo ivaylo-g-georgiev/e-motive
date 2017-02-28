@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main": true
+    }
+  },
+  "paths": {
+    "source": "public/assets/",
+    "dist": "public/dist/"
+  },
+  "config": {
+    "devUrl": "http://192.168.10.10/e-motive-the-merchant/public"
+  }
+}

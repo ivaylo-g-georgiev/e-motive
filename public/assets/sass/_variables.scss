@@ -1,0 +1,45 @@
+// For all variables, see bower_components/bootstrap/scss/_variables.scss
+
+/* ==========================================================================
+   Brand Colors
+   ========================================================================== */
+
+$gray-dark:                 #373a3c;
+$gray:                      #55595c;
+$gray-light:                #818a91;
+$gray-lighter:              #eceeef;
+$gray-lightest:             #f7f7f9;
+
+$brand-primary:             #03a9f4;
+
+
+/* ==========================================================================
+   Globals
+   ========================================================================== */
+
+$body-bg:                    #fff;
+$body-color:                 $gray-dark;
+$enable-flex:                false;
+$enable-rounded:             true;
+
+
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+$font-family-sans-serif:     "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-brand:                  "Maven Pro", sans-serif;
+
+$font-size-root:             16px;
+$link-color:                 $brand-primary;
+$link-hover-color:           darken($link-color, 15%);
+$link-hover-decoration:      underline;
+
+//Headers
+$font-size-h1:               2.5rem;
+$font-size-h2:               2rem;
+$font-size-h3:               1.75rem;
+$font-size-h4:               1.5rem;
+$font-size-h5:               1.25rem;
+$font-size-h6:               1rem;

@@ -1,0 +1,19 @@
+{
+  "name": "gulptemplate",
+  "version": "1.0.0",
+  "authors": [
+    "God <god@earth.com>"
+  ],
+  "description": "A gulp template",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "tether": "^1.2.0",
+    "slick-carousel": "^1.6.0",
+    "bootstrap": "4.0"
+  }
+}
